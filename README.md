@@ -1,4 +1,5 @@
 # minitalk
+ [![Intro](https://img.shields.io/badge/Cursus-Minitalk-success?style=for-the-badge&logo=42)](https://github.com/mlanca-c/Minitalk)<br>
 The purpose of this project is to code a small data exchange program using UNIX signals. <br>
 
 ## Cloning <br>
