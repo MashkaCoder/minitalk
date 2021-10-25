@@ -1,10 +1,10 @@
 # minitalk
- [![Intro](https://img.shields.io/badge/Cursus-Minitalk-success?style=for-the-badge&logo=42)](https://github.com/mlanca-c/Minitalk)<br>
+ [![Intro](https://img.shields.io/badge/Cursus-Minitalk-success?style=for-the-badge&logo=42)](https://github.com/MashkaCoder/minitalk.git)<br>
 The purpose of this project is to code a small data exchange program using UNIX signals. <br>
 
 ## Cloning <br>
 ```
-https://github.com/MashkaCoder/minitalk.git
+git clone https://github.com/MashkaCoder/minitalk.git
 cd minitalk
 make
 ```
